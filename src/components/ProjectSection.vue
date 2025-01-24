@@ -7,7 +7,11 @@
             title: 'Resume Website',
             category: 'Web Development',
             description: 'This is my newest project using Vue 3, Tailwind CSS and AOS Library for animation.',
+<<<<<<< HEAD
             image: url('./src/assets/Vue+Tailwind.jpg'),
+=======
+            image: '@/src/assets/Vue+Tailwind.jpg',
+>>>>>>> 73a5c53 (Updating images to visible)
             technologies: ['Vue 3, Tailwind CSS, AOS Library'],
             webURL: '',
         },
@@ -16,7 +20,11 @@
             title: 'Resume Website (old)',
             category: 'Web Development',
             description: 'This is my old project using HTML, CSS, and a little bit of JavaScript.',
+<<<<<<< HEAD
             image: url('./src/assets/HTML.png'),
+=======
+            image: '@/src/assets/HTML.png',
+>>>>>>> 73a5c53 (Updating images to visible)
             technologies: ['HTML, CSS, JavaScript'],
             webURL: 'https://jbee29.github.io/myResume.github.io/',
         },
