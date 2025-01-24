@@ -7,7 +7,7 @@
             title: 'Resume Website',
             category: 'Web Development',
             description: 'This is my newest project using Vue 3, Tailwind CSS and AOS Library for animation.',
-            image: './src/assets/Vue+Tailwind.jpg',
+            image: './src/assets/VT.jpeg',
             technologies: ['Vue 3, Tailwind CSS, AOS Library'],
             webURL: '',
         },
