@@ -83,7 +83,7 @@
                     <div class="p-2"
                     style="background: #111A3E; width: 50px; height: 48px; display: flex; justify-content: center; border-radius: 50%;
                     overflow: hidden; border: 1px solid #111A3E; backdrop-filter: blur(9px); -webkit-backdrop-filter: blur(9px);">
-                        <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="linkedin" class="w-6">
+                        <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="linkedin" class="w-8">
                     </div>
                     <div class="ml-5 text-white">
                         <h4>LinkedIn</h4>
