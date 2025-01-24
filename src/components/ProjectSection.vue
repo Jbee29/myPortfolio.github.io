@@ -1,5 +1,7 @@
 <script setup>
     import { computed, ref } from 'vue';
+    import VT from '../assets/VT.jpeg';
+    import HTML from '../assets/HTML.png';
 
     const Projects = ref([
         {
@@ -7,7 +9,7 @@
             title: 'Resume Website',
             category: 'Web Development',
             description: 'This is my newest project using Vue 3, Tailwind CSS and AOS Library for animation.',
-            image: '../src/assets/VT.jpeg',
+            image: VT,
             technologies: ['Vue 3, Tailwind CSS, AOS Library'],
             webURL: '',
         },
@@ -16,7 +18,7 @@
             title: 'Resume Website (old)',
             category: 'Web Development',
             description: 'This is my old project using HTML, CSS, and a little bit of JavaScript.',
-            image: '../src/assets/HTML.png',
+            image: HTML,
             technologies: ['HTML, CSS, JavaScript'],
             webURL: 'https://jbee29.github.io/myResume.github.io/',
         },
