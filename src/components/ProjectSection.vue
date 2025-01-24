@@ -17,7 +17,6 @@
             category: 'Web Development',
             description: 'This is my old project using HTML, CSS, and a little bit of JavaScript.',
             image: './src/assets/HTML.png',
-            image: require('@/src/assets/HTML.png'),
             technologies: ['HTML, CSS, JavaScript'],
             webURL: 'https://jbee29.github.io/myResume.github.io/',
         },
