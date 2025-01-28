@@ -12,6 +12,7 @@
             image: VT,
             technologies: ['Vue 3, Tailwind CSS, AOS Library'],
             webURL: '',
+            githubURL: 'https://github.com/Jbee29/myPortfolio.github.io',
         },
         {
             id: 2,
@@ -21,6 +22,7 @@
             image: HTML,
             technologies: ['HTML, CSS, JavaScript'],
             webURL: 'https://jbee29.github.io/myResume.github.io/',
+            githubURL: 'https://github.com/Jbee29/myResume.github.io',
         },
     ]);
 
@@ -58,6 +60,15 @@
                                     </path>
                                     <path stroke-linecap="round" stroke-linejoin="round"
                                         d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path>
+                                </svg>
+                            </a>
+                            <a class="h-14 w-14 mr-2 border-2 relative rounded-full border-[#ADB7BE] hover:border-white group/link" 
+                            :href="project.githubURL" target="_blank" rel="noopener noreferrer">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
+                                aria-hidden="true" data-slot="icon"
+                                class="h-10 w-10 text-[#ADB7BE] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 cursor-pointer group-hover/link:text-white">
+                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                        d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5"></path>
                                 </svg>
                             </a>
                         </div>
