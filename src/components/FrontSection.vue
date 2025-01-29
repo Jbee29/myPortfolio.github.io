@@ -1,6 +1,6 @@
 <script setup>
     import { DotLottieVue } from '@lottiefiles/dotlottie-vue';
-    import resume from '../assets/BERNARD.pdf';
+    import resume from '../assets/BERNARD T.pdf';
     import AOS from 'aos';
     import 'aos/dist/aos.css';
 
@@ -35,10 +35,10 @@
                         <button class="border border-green-500 border-solid px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
                             <div class="hover:scale-105 transition-all ease-in-out flex justify-center items-center relative">
                                 <div class="svg-container">
-                                    <DotLottieVue style="height: 30px; width: 30px" autoplay loop src="https://lottie.host/49017203-86b0-4565-beb7-920d6176bb7a/JR73wv2TOV.lottie" />
+                                    <DotLottieVue style="height: 25px; width: 25px" autoplay loop src="https://lottie.host/49017203-86b0-4565-beb7-920d6176bb7a/JR73wv2TOV.lottie" />
                                     <div class="download-loader text-white hidden"></div>
                                 </div>
-                                <a :href=resume download="BERNARD.pdf" class="pl-2 text-green-100"> Download Resume</a>
+                                <a :href=resume download="BERNARD T.pdf" class="pl-2 text-green-100"> Download CV/Resume</a>
                             </div>
                         </button>
                         <div class="px-6 md:px-7 py3 relative group w-full sm:w-max flex justify-center ">
